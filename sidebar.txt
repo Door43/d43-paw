@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[paw:home|Door43 (paw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-paw|d43-paw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-paw/archive/master.zip|d43-paw.zip]]
+
+**Recent Changes**
+{{changes>ns = paw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/paw|Ethnologue data]]
+
